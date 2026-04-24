@@ -163,5 +163,3 @@ Using a JAX-RS filter class instead of putting logs in every resource method is 
 ## Author
 **Buddhima Jothiwansa**
 University of Westminster
-Module: 5COSC022W — Client-Server Architectures
-Academic Year: 2025/26
